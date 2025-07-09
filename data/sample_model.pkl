@@ -1,0 +1,12 @@
+# This file will be created automatically by the model_utils.py when the application first runs
+# It contains a trained scikit-learn RandomForestClassifier model for predicting learning difficulties
+# The model is trained on synthetic data with features:
+# - math_score (0-100)
+# - reading_score (0-100) 
+# - writing_score (0-100)
+# - attendance (0-100)
+# - behavior (1-5)
+# - literacy (1-10)
+
+# Note: This is a placeholder file. The actual .pkl file will be generated automatically
+# when the application runs for the first time.

@@ -1,0 +1,26 @@
+[
+  {
+    "username": "admin",
+    "password": "admin123",
+    "user_type": "teacher",
+    "full_name": "Administrator",
+    "email": "admin@school.edu",
+    "created_date": "2024-06-23T00:00:00"
+  },
+  {
+    "username": "teacher1", 
+    "password": "teacher123",
+    "user_type": "teacher",
+    "full_name": "Demo Teacher",
+    "email": "teacher@school.edu",
+    "created_date": "2024-06-23T00:00:00"
+  },
+  {
+    "username": "parent1",
+    "password": "parent123", 
+    "user_type": "parent",
+    "full_name": "Demo Parent",
+    "email": "parent@email.com",
+    "created_date": "2024-06-23T00:00:00"
+  }
+]
